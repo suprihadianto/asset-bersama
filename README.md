@@ -1,0 +1,2 @@
+# asset-bersama
+asset-bersama
